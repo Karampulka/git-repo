@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Line 1
+Line 2 3
+45666
 Line 1.
 Line 2 3.
 45666.
+>>>>>>> master
